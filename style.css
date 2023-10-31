@@ -1,0 +1,82 @@
+body {
+  background: rgb(230, 230, 230);
+  color: rgb(50, 50, 50);
+font-family: 'Spectral SC', serif;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+h1,
+h2,
+h3 {
+font-family: 'Spectral SC', serif;
+}
+
+h1 {
+  color: black;
+  font-size: 32px;
+}
+
+h2 {
+  color:black;
+  font-family: 'Spectral SC', serif;
+  font-size: 24px;
+  font-weight: lighter;
+}
+
+.btn-blue {
+  text-decoration: none;
+  color: white;
+}
+
+.btn-blue:hover {
+  color: black;
+}
+
+.pp {
+  border-radius: 50%;
+}
+
+
+  /* Custom design with class*/
+
+  .container {
+    width: 700px;
+    margin: 40px auto;
+  }
+
+.design {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center ;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.btn-blue {
+ background-color: black;
+ colors: white;
+ padding: 15px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li{
+  display: inline;
+  padding: 10px;
+}
+.list-inline svg {
+  font-size: 50px;
+  color: rgb(190,190,190);
+}
+
+#introduction p {
+ margin-bottom: 40px;
+}
